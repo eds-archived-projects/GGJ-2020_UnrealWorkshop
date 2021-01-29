@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.third-person-game-template-11100242.ue4editor.exe",
+			"app_key": "application.generated.ue.third-person-bp-game-template-14830424.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "F:/Projects/Unreal/UE_AdvancedWorkshop/UE_AdvancedWorkshop/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/Edward/Desktop/GGJ_UE_Workshop/UE_AdvWorkshop_BP/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "Third Person Game Template-11100242 [UE Editor]"
+					"name": "Third Person BP Game Template-14830424 [UE Editor]"
 				}
 			}
 		}

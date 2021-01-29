@@ -76,6 +76,22 @@
 			"name": "/actions/main/out/vibrateright",
 			"type": "vibration",
 			"requirement": "optional"
+		},
+		{
+			"name": "/actions/main/in/Jump",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/ResetVR",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/MoveRight axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/TurnRate axis",
+			"type": "vector1"
 		}
 	],
 	"action_sets": [
@@ -148,6 +164,10 @@
 			"/actions/main/in/open_console": "Open Console",
 			"/actions/main/out/vibrateleft": "Haptic (Left)",
 			"/actions/main/out/vibrateright": "Haptic (Right)",
+			"/actions/main/in/Jump": "Jump",
+			"/actions/main/in/ResetVR": "ResetVR",
+			"/actions/main/in/MoveRight axis": "MoveRight",
+			"/actions/main/in/TurnRate axis": "TurnRate",
 			"/actions/main": "Main Game Actions"
 		}
 	]
